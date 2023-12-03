@@ -1,4 +1,4 @@
-# .NET Samples - updated1
+# .NET Samples
 
 The code in this repository represents programs that demonstrate Math operations such as addition, multiplication.
 
